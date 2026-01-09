@@ -1,0 +1,5 @@
+{
+  "name": "VeoFlow Parallel Video Studio",
+  "description": "A high-performance video generation workspace supporting 4 parallel threads for image-to-video conversion using Google Gemini Veo technology.",
+  "requestFramePermissions": []
+}
